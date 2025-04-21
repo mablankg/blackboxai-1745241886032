@@ -1,0 +1,9 @@
+ID,Processo,Etapas,Responsável,Status,Departamento,Prioridade,Última Revisão,Próxima Revisão
+PRC001,"Coleta de Consentimento","1. Identificação do ponto de coleta; 2. Elaboração do texto de consentimento; 3. Implementação do mecanismo de coleta; 4. Registro do consentimento; 5. Monitoramento contínuo","Maria Silva",Ativo,"Jurídico",Alta,2023-11-15,2024-02-15
+PRC002,"Atendimento ao Titular","1. Recebimento da solicitação; 2. Verificação de identidade; 3. Análise do pedido; 4. Processamento da solicitação; 5. Resposta ao titular","João Santos",Ativo,"SAC",Alta,2023-12-01,2024-03-01
+PRC003,"Gestão de Incidentes","1. Detecção do incidente; 2. Avaliação inicial; 3. Contenção; 4. Investigação; 5. Notificação; 6. Resolução","Ana Costa",Ativo,"TI",Alta,2023-11-30,2024-02-28
+PRC004,"Avaliação de Fornecedores","1. Análise inicial; 2. Due diligence; 3. Avaliação de conformidade LGPD; 4. Elaboração/revisão contratual; 5. Monitoramento","Pedro Oliveira",Em Revisão,"Compliance",Média,2023-10-15,2024-01-15
+PRC005,"Exclusão de Dados","1. Recebimento da solicitação; 2. Verificação de bases legais; 3. Identificação dos dados; 4. Processo de exclusão; 5. Confirmação","Lucia Mendes",Ativo,"TI",Alta,2023-12-10,2024-03-10
+PRC006,"Auditoria Interna","1. Planejamento; 2. Coleta de evidências; 3. Análise; 4. Relatório; 5. Plano de ação","Roberto Alves",Planejado,"Compliance",Média,2023-11-01,2024-02-01
+PRC007,"Transferência Internacional","1. Avaliação do país destinatário; 2. Verificação de salvaguardas; 3. Documentação; 4. Implementação de controles; 5. Monitoramento","Carlos Lima",Em Revisão,"Jurídico",Alta,2023-12-05,2024-03-05
+PRC008,"Backup e Recuperação","1. Definição de política; 2. Implementação de rotinas; 3. Teste de recuperação; 4. Documentação; 5. Revisão periódica","Patricia Santos",Ativo,"TI",Alta,2023-11-20,2024-02-20
