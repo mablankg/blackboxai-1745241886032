@@ -1,0 +1,9 @@
+ID,Projeto,Status,Data Início,Data Fim,Descrição,Prioridade,Responsável,Área/Departamento
+PRJ001,"Implementação DPO",Em andamento,2023-10-01,2024-01-31,"Seleção e implementação do papel de DPO (Data Protection Officer) na organização, incluindo definição de responsabilidades e processos de governança.",Alta,"Maria Silva","Jurídico"
+PRJ002,"Mapeamento de Dados",Concluído,2023-06-15,2023-09-30,"Identificação e documentação de todos os pontos de coleta, processamento e armazenamento de dados pessoais na organização.",Alta,"João Santos","TI"
+PRJ003,"Política de Privacidade",Em andamento,2023-11-01,2024-02-28,"Desenvolvimento e implementação de nova política de privacidade em conformidade com a LGPD, incluindo processos de consentimento.",Média,"Ana Costa","Compliance"
+PRJ004,"Adequação de Sistemas",Pendente,2024-01-01,2024-06-30,"Adaptação dos sistemas internos para garantir conformidade com requisitos de segurança e privacidade da LGPD.",Alta,"Pedro Oliveira","TI"
+PRJ005,"Treinamento LGPD",Em andamento,2023-12-01,2024-03-31,"Programa de capacitação para colaboradores sobre práticas de proteção de dados e conformidade com a LGPD.",Média,"Lucia Mendes","RH"
+PRJ006,"Auditoria de Dados",Planejado,2024-03-01,2024-05-31,"Realização de auditoria completa dos processos de tratamento de dados pessoais e adequação à LGPD.",Alta,"Roberto Alves","Compliance"
+PRJ007,"Portal do Titular",Em andamento,2023-11-15,2024-04-30,"Desenvolvimento de portal para atendimento às solicitações dos titulares de dados conforme direitos previstos na LGPD.",Alta,"Carlos Lima","TI"
+PRJ008,"Revisão de Contratos",Concluído,2023-08-01,2023-11-30,"Adequação dos contratos com fornecedores e parceiros às exigências da LGPD.",Média,"Patricia Santos","Jurídico"
